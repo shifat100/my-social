@@ -1,0 +1,28 @@
+{
+  "version": "1.5.0",
+  "name": "My Social",
+  "description": "Chat To Each Other And Share",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icon_56.png",
+    "112": "/icon_112.png",
+    "128": "/icon_128.png"
+  },
+  "fullscreen": "false",
+  "developer": {
+    "name": "shifat100"
+  },
+   "origin": "app://my-social.app",
+  "locales": {
+    "en-US": {
+      "name": "My Social",
+      "subtitle": "Be In Contact",
+      "description": "Chat To Each Other And Share"
+    }
+  },
+  "default_locale": "en-US",
+  "cursor": true,
+  "type": "web",
+  "display": "browser",
+  "ime_default_softkey_bar": true
+}
